@@ -29,16 +29,21 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+
+<img width="1238" height="926" alt="image" src="https://github.com/user-attachments/assets/c25310c9-8436-4ee3-9918-83ec934a43df" />
 
 
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+
+<img width="1280" height="582" alt="image" src="https://github.com/user-attachments/assets/3fbe6865-a100-43e7-907b-48b2bd1cfb16" />
 
 ## DESIGN
+
+<img width="1280" height="845" alt="image" src="https://github.com/user-attachments/assets/47db4813-d644-4591-9c41-c790f68ca062" />
+
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
@@ -58,20 +63,22 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+<img width="1280" height="729" alt="image" src="https://github.com/user-attachments/assets/c2eaa5eb-3c6a-4dfc-ad75-7b11940e3dec" />
+
+
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="938" height="1280" alt="image" src="https://github.com/user-attachments/assets/c21c8596-b28a-4fe2-8d08-83be7048f387" />
+
+
 
 ---
+## WIEN BRIDGE OSCILLATOR
 ## THEORY
  ##WIEN BRIDGE
+ 
 A bridge circuit with two components connected in series and parallel combination is used to archived the required of phase shift of 0o. When the bridge is balanced the phase shift of 0o is achieved and the feedback signal is connected to the positive terminal; of Op-amp. So the Op-amp is acting as a non-inverting amplifier and the feedback network do not provide any phase shift.
 The frequency of oscillation is given by fo = 1/2πRC
 ## APPARATUS REQUIRED
@@ -90,16 +97,22 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+
+
+<img width="1280" height="863" alt="image" src="https://github.com/user-attachments/assets/255e94a0-094d-4010-9f76-790a282ff257" />
 
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+
+<img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/1e426c1a-a8a1-42f0-bd41-f92745d6f12c" />
 
 ---
 
 ## DESIGN
+
+<img width="1134" height="974" alt="image" src="https://github.com/user-attachments/assets/bc75a34c-813e-4a91-8891-ff9f0ca4db9e" />
+
 
 ## WIEN BRIDGE OSCILLATOR
 Select frequency f0 = 1KHz
@@ -124,16 +137,15 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+<img width="1280" height="611" alt="image" src="https://github.com/user-attachments/assets/62c235c6-1b97-4248-b62f-bb1f09a8415a" />
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
+<img width="916" height="1280" alt="image" src="https://github.com/user-attachments/assets/dd88ec27-b784-4222-9493-4610ba4ceb93" />
+
 
 
 ---
